@@ -23,11 +23,11 @@ namespace TP01
         {
             if (id == "admin" && pass == "@dmin")
             {
-                await DisplayAlert("Alert", "Logado com sucesso!", "OK");
+                await DisplayAlert("Alerta", "Logado com sucesso!", "OK");
             }
             else
             {
-                await DisplayAlert("Alert", "Login não autorizado!", "OK");
+                await DisplayAlert("Alerta", "Login não autorizado!", "OK");
             }
         }
 
@@ -35,6 +35,7 @@ namespace TP01
         {
             idEntry.Text = string.Empty;
             passEntry.Text = string.Empty;
+            idEntry.Focus();
         }
 
         private async void Button_Credits(object sender, EventArgs e)
