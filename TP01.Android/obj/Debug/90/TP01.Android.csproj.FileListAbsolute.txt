@@ -463,3 +463,4 @@ C:\Users\kawan\source\repos\TP01\TP01.Android\obj\Debug\90\stamp\_ConvertResourc
 C:\Users\kawan\source\repos\TP01\TP01.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\kawan\source\repos\TP01\TP01.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\kawan\source\repos\TP01\TP01.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\kawan\source\repos\TP01\TP01.Android\obj\Debug\90\android\src\crc64f1c9b931a898e6e7\CustomEntryRenderer.java
